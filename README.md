@@ -9,3 +9,6 @@ linux or wsl
 ```bash
 python3 main.py
 ```
+
+## Loading a program
+marsh.txt is used to load a program. Make changes there to run a different program
